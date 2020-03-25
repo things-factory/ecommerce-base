@@ -30,7 +30,8 @@
     "stop": "things-factory-stop ecommerce-base"
   },
   "dependencies": {
-    "@things-factory/shell": "*"
+    "@things-factory/lazop-api": "*",
+    "@things-factory/shell": "^2.0.0"
   },
   "devDependencies": {}
 }
